@@ -1,0 +1,15 @@
+/Users/Airdrowndagger/Examples/HelloUser/bin/Debug/net6.0/HelloUser
+/Users/Airdrowndagger/Examples/HelloUser/bin/Debug/net6.0/HelloUser.deps.json
+/Users/Airdrowndagger/Examples/HelloUser/bin/Debug/net6.0/HelloUser.runtimeconfig.json
+/Users/Airdrowndagger/Examples/HelloUser/bin/Debug/net6.0/HelloUser.dll
+/Users/Airdrowndagger/Examples/HelloUser/bin/Debug/net6.0/HelloUser.pdb
+/Users/Airdrowndagger/Examples/HelloUser/obj/Debug/net6.0/HelloUser.csproj.AssemblyReference.cache
+/Users/Airdrowndagger/Examples/HelloUser/obj/Debug/net6.0/HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Airdrowndagger/Examples/HelloUser/obj/Debug/net6.0/HelloUser.AssemblyInfoInputs.cache
+/Users/Airdrowndagger/Examples/HelloUser/obj/Debug/net6.0/HelloUser.AssemblyInfo.cs
+/Users/Airdrowndagger/Examples/HelloUser/obj/Debug/net6.0/HelloUser.csproj.CoreCompileInputs.cache
+/Users/Airdrowndagger/Examples/HelloUser/obj/Debug/net6.0/HelloUser.dll
+/Users/Airdrowndagger/Examples/HelloUser/obj/Debug/net6.0/refint/HelloUser.dll
+/Users/Airdrowndagger/Examples/HelloUser/obj/Debug/net6.0/HelloUser.pdb
+/Users/Airdrowndagger/Examples/HelloUser/obj/Debug/net6.0/HelloUser.genruntimeconfig.cache
+/Users/Airdrowndagger/Examples/HelloUser/obj/Debug/net6.0/ref/HelloUser.dll
